@@ -1,1 +1,5 @@
-Hola que tal soy el texto sus
+Nuestro proyecto que vamos a dedicar es una red social en la qual estos interacutan personas y comparten sus historias a partir de la misma red (mismo dominio). De forma que las personas puedan
+expressar libremente sus opiones a partir del margen de la ley y restringir el odio hacia otras personas en este. Se trata un red social que compartes documentos con otras personas de forma publica
+al qual al publicar de forma publica necesitaras un canal. El objectivo es mejorar la atencion a las personas, la escritura (como las ortografias y fallos), relacionarse con personas de forma virtual,
+argumentar sobre temas sociales, politicos entre otras a partir de respeto y en esta la gente poder reflexionar sobre este tipo de cosas hacia una conclusion. Basicamente ayudar su atencion, 
+entender comunitariamente sobre temas tratados, mejorar su reflexion hacia sus objectivos de vida.
